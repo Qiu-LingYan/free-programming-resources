@@ -4,7 +4,7 @@
 
 # 💎 免费编程资源大全
 
-> 让天下编程资源不再难找！by 鱼皮
+> 让天下编程资源不再难找！By QiuLingYan
 
 - 🚄 [学习路线](./学习路线/README.md)
 - ❤️ [贴心教程](./贴心教程/README.md)
@@ -13,6 +13,6 @@
 - 🙎 [面试合集](./面试合集/README.md)
 - 📦 [实用资源](./实用资源/README.md)
 
-[GitHub](https://github.com/liyupi/free-programming-resources)
+[GitHub](https://github.com/Qiu-LingYan/programming)
 [阅读](README.md)
 
